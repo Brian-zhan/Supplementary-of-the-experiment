@@ -1,0 +1,5 @@
+index,itemText,type,options,ticks,tickLabels,layout,itemColor,itemWidth,responseColor,responseWidth,granularity,font
+0,1. 在我們社會上，有人說自己是「台灣人」，也有人說自己是「中國人」，也有人說都是，請問您認為自己是「台灣人」、「中國人」，或者「都是」？,choice,"台灣人,中國人,都是","0,1,2",,vert,black,,black,,,Noto Sans TC
+1,2. 關於台灣和大陸的關係，有幾種不同的看法: 1.儘快統一；2.儘快獨立；3.維持現狀，以後走向統一；4.維持現狀，以後走向獨立；5.維持現狀，看情形再決定獨立或統一；6. 永遠維持現狀 請問您比較偏向哪一種？,choice,"儘快統一,儘快獨立,維持現狀，以後走向統一,維持現狀，以後走向獨立,維持現狀，看情形再決定獨立或統一,永遠維持現狀","0,1,2,3,4,5",,vert,black,1,black,1,,Noto Sans TC
+2,3. 你認為在政治光譜中你會偏向在哪個位置？,rating,"左派,中間偏左派,中間選民,中間偏右派,右派","0,1,2,3,4","左派,中間偏左派,中間選民,中間偏右派,右派",horiz,black,,black,,0,Noto Sans TC
+3,4. 當只有以下兩個黨派，政黨票你會偏好投哪個？,choice,"國民黨,民進黨","0,1",,vert,black,,black,,,Noto Sans TC

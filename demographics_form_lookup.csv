@@ -1,0 +1,12 @@
+index,itemText,type,options,ticks,tickLabels,layout,itemColor,itemWidth,responseColor,responseWidth,granularity,font
+0,"同學您好：
+
+感謝您參與本實驗，本表單內容主要目的為調查潛在研究對象的基本人口學資料，感謝您撥冗填答！本問卷採記名及間接辨識個人的方式作答，數位電子及紙本資料輸入電腦後會保存至2032年7月31日後即銷毀並刪除（移除所有可辨識個人資訊，以編碼方式進行分析)。研究團隊將盡力維護您的隱私及善盡保密責任，減少可能的妨害秘密風險。※備註：此研究未來發表採整體分析，您不會被辨識出，成果將發表於同儕審查期刊，亦無衍生的商業利益。
+▲實驗計畫主持人：國立清華大學教育學院 心諮系大四 詹子毅
+▲聯絡資訊：0965210090
+",description,,,,,black,,,,,Noto Sans TC
+1,1. 年齡（請輸入文字）,free text,,,,,black,,,,,Noto Sans TC
+2,2. 生理性別,choice,"男性,女性,不方便透露","0,1,2",,vert,black,,black,,,Noto Sans TC
+3,3. 身高（公分）（請輸入文字）,free text,,,,,black,,,,,Noto Sans TC
+4,4. 血型,choice,"A,B,AB,O","0,1,2,3",,vert,black,,black,,,Noto Sans TC
+5,5. 目前最高學歷,choice,"小學,國中,五專,高中,學士,碩士,博士","0,1,2,3,4,5,6",,vert,black,,black,,,Noto Sans TC
