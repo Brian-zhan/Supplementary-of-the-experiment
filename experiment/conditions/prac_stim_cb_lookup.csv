@@ -1,0 +1,4 @@
+cb_id_prac,stim_picname,practice_loop_special_setting,stim_pic_sizeX,stim_pic_sizeY
+0,practice-01.png,"[0,1,2]",1920,1608
+1,practice-02.png,"[2,0,1]",1921,1607
+2,practice-03.png,"[1,0,2]",1922,1596

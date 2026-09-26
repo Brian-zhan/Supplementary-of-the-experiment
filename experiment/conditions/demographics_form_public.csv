@@ -1,0 +1,6 @@
+index,itemText,type,options
+1,年齡（請輸入文字）,free text,
+2,生理性別,choice,"男性,女性,不方便透露"
+3,身高（公分）（請輸入文字）,free text,
+4,血型,choice,"A,B,AB,O"
+5,目前最高學歷,choice,"小學,國中,五專,高中,學士,碩士,博士"

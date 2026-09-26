@@ -1,23 +1,18 @@
-# Supplementary Materials Repository
+# Prebunking Scapegoating in Political Social Media
 
-This repository is currently being rebuilt to match the latest reproducible analysis workflow for the associated research project.
+Supplementary materials and reproducibility resources for the manuscript **Prebunking Scapegoating in Political Social Media**.
 
-The previous JASP-based analysis files and an outdated stimulus-coding document have been removed because they no longer correspond to the current analysis pipeline or manuscript terminology.
+This repository uses the revised manuscript terminology. Historical JASP analyses and earlier truth/misinformation framing are not treated as the current inferential analysis.
 
-## Current status
+## Contents
 
-A clean reproducibility package is being prepared around the canonical R workflow. The final repository will contain only materials needed to reproduce the reported analyses, including:
+- `experiment/`: original PsychoPy Builder source, stimuli, task assets, and questionnaire/counterbalancing files needed to document the administered experiment.
+- `experiment/stimulus_construction/`: historical AI prompt and human coding rubric, preserved for provenance with an explicit interpretation warning.
+- `docs/TERMINOLOGY.md`: mapping between historical internal labels and the manuscript-facing construct **perceived rhetorical bias**.
 
-- de-identified analysis data appropriate for public sharing;
-- canonical R analysis scripts and environment information;
-- codebook and variable documentation;
-- manuscript-facing figure source materials;
-- reproducibility and verification files; and
-- a sanitized version of the experimental implementation where appropriate.
+Raw participant-level PsychoPy exports are intentionally excluded from this public repository.
 
-Historical or superseded analyses will not be presented as current results.
+The canonical inferential analyses were rebuilt in R 4.5.3 using crossed participant-by-item mixed-effects models and associated robustness checks. Only manuscript-consistent analysis artifacts should be used for inference.
 
-## Peer-review note
-
-Reviewer-facing materials for a double-anonymized submission should be accessed through an anonymized review link rather than this author-linked public GitHub repository.
-
+### Peer-review note
+This GitHub repository is author-linked and therefore is not an anonymous reviewer repository.
