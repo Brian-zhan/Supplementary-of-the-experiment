@@ -1,0 +1,17 @@
+"outcome","estimand","inoculation","scapegoating","consensus","estimate","std_error","ci_low_95","ci_high_95"
+"discrimination","Inoculation x scapegoating","Control","High scapegoating",,7.86482206386478,0.217014573966032,7.43948131477106,8.29016281295851
+"discrimination","Inoculation x scapegoating","Control","Low scapegoating",,4.3225559570416,0.217014573966032,3.89721520794788,4.74789670613533
+"discrimination","Inoculation x scapegoating","Prebunk","High scapegoating",,8.26241503676834,0.21343051570731,7.8440989127802,8.68073116075648
+"discrimination","Inoculation x scapegoating","Prebunk","Low scapegoating",,3.97115488355768,0.21343051570731,3.55283875956954,4.38947100754582
+"discrimination","Scapegoating x consensus",,"High scapegoating","Angry-dominant",8.16849789932593,0.253694517214563,7.67126578251011,8.66573001614175
+"discrimination","Scapegoating x consensus",,"High scapegoating","Like-dominant",7.9587392013072,0.253694517214563,7.46150708449138,8.45597131812302
+"discrimination","Scapegoating x consensus",,"Low scapegoating","Angry-dominant",4.45707137630193,0.253694517214563,3.95983925948611,4.95430349311775
+"discrimination","Scapegoating x consensus",,"Low scapegoating","Like-dominant",3.83663946429736,0.253694517214563,3.33940734748154,4.33387158111318
+"attitude","Inoculation x scapegoating","Control","High scapegoating",,4.07286585365959,0.130741765803807,3.81661670140896,4.32911500591022
+"attitude","Inoculation x scapegoating","Control","Low scapegoating",,6.13856142728051,0.130741765803807,5.88231227502988,6.39481057953114
+"attitude","Inoculation x scapegoating","Prebunk","High scapegoating",,3.88879005409742,0.126829588583375,3.64020862829997,4.13737147989487
+"attitude","Inoculation x scapegoating","Prebunk","Low scapegoating",,6.08675613816294,0.126829588583375,5.8381747123655,6.33533756396039
+"attitude","Scapegoating x consensus",,"High scapegoating","Angry-dominant",3.80854810986737,0.126620443158102,3.56037660157099,4.05671961816375
+"attitude","Scapegoating x consensus",,"High scapegoating","Like-dominant",4.15310779788964,0.126620443158102,3.90493628959326,4.40127930618602
+"attitude","Scapegoating x consensus",,"Low scapegoating","Angry-dominant",5.6291470137067,0.126620443158102,5.38097550541031,5.87731852200308
+"attitude","Scapegoating x consensus",,"Low scapegoating","Like-dominant",6.59617055173676,0.126620443158102,6.34799904344038,6.84434206003314
