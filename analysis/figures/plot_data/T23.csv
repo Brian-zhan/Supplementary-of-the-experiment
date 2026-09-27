@@ -1,0 +1,5 @@
+"outcome","estimand","estimate","assignments","p_exact_two_sided"
+"discrimination","Angry - Like overall",0.41473138722039,160000,0.1018
+"discrimination","Scapegoating x Consensus",-0.408247031225945,160000,0.424825
+"attitude","Angry - Like overall",-0.655796512903021,160000,1e-04
+"attitude","Scapegoating x Consensus",0.622520034646199,160000,0.100725
