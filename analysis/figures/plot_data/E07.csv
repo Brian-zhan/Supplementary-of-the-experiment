@@ -1,0 +1,5 @@
+"rt_outcome","inoculation","mean_log_conflict_cost","percent_conflict_cost","sd_log_cost","n"
+"discrimination_rt_s","Control",0.0265329217892774,2.68880536973103,0.203202644498558,82
+"discrimination_rt_s","Prebunk",0.0891462919005611,9.32405768702657,0.196685848526049,89
+"attitude_rt_s","Control",0.07400728121346,7.681464598497,0.215550399928832,82
+"attitude_rt_s","Prebunk",0.0970895415963083,10.1959040375097,0.20834932805471,89
